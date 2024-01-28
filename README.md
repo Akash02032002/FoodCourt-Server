@@ -1,4 +1,6 @@
-FoodCourt-Server
+# FoodCourt-Server
+
+# Stripe Payment Integration Added also
 
 <img width="960" alt="Screenshot 2024-01-08 160408" src="https://github.com/Akash02032002/FoodCourt-Server/assets/84145371/9c5be6a7-4059-4daf-b77a-855b6364cc32">
 
